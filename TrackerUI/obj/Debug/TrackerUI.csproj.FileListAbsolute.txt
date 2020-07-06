@@ -1,0 +1,33 @@
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.TournamentViewer.resources
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreatePrize.resources
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTeam.resources
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTournament.resources
+C:\Users\manes\Desktop\FINKI\Semestar 4\Vizuelno Programiranje\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.TournamentDashboard.resources
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreatePrize.resources
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTeam.resources
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.CreateTournament.resources
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.TournamentDashboard.resources
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.TournamentViewer.resources
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\bin\Debug\Dapper.dll
+C:\Users\kika_\Desktop\Project\TrackerLibrary\TrackerUI\bin\Debug\Dapper.xml
